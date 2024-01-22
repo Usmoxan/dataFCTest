@@ -12,7 +12,7 @@
     },
     {
       "match_is": true,
-      "isEnd": true,
+      "isEnd": false,
       "player1": "ILYOSBEK",
       "player2": "Nasaf",
       "score1": 0,
@@ -22,7 +22,7 @@
     },
     {
       "match_is": true,
-      "isEnd": true,
+      "isEnd": false,
       "player1": "Allam_zh",
       "player2": "Latifjon",
       "score1": 0,
@@ -32,7 +32,7 @@
     },
     {
       "match_is": true,
-      "isEnd": true,
+      "isEnd": false,
       "player1": "AZIZBEK",
       "player2": "KISOfc",
       "score1": 0,
@@ -42,7 +42,7 @@
     },
     {
       "match_is": true,
-      "isEnd": true,
+      "isEnd": false,
       "player1": "Doctor_Khaydarov",
       "player2": "Uzbekistan",
       "score1": 0,
@@ -52,7 +52,7 @@
     },
     {
       "match_is": true,
-      "isEnd": true,
+      "isEnd": false,
       "player1": "RMA",
       "player2": "NURULLAYEV",
       "score1": 0,

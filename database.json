@@ -15,7 +15,7 @@
       "isEnd": true,
       "player1": "ILYOSBEK",
       "player2": "Nasaf",
-      "score1": 0,
+      "score1": 1,
       "score2": 0,
       "date": "12 Dek",
       "time": "21:00"
@@ -58,6 +58,39 @@
       "score1": 2,
       "score2": 1,
       "date": "12 Dek",
+      "time": "21:00"
+    },
+     {
+      "match_is": false
+    },
+     {
+      "match_is": true,
+      "isEnd": false,
+      "player1": "Penablok",
+      "player2": "ILYOSBEK",
+      "score1": 0,
+      "score2": 0,
+      "date": "23 Dek",
+      "time": "21:00"
+    },
+    {
+      "match_is": true,
+      "isEnd": false,
+      "player1": "Latifjon",
+      "player2": "AZIZBEK",
+      "score1": 0,
+      "score2": 0,
+      "date": "23 Dek",
+      "time": "21:00"
+    },
+    {
+      "match_is": true,
+      "isEnd": false,
+      "player1": "Doctor_Khaydarov",
+      "player2": "RMA",
+      "score1": 0,
+      "score2": 0,
+      "date": "23 Dek",
       "time": "21:00"
     }
   ]

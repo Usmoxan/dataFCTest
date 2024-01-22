@@ -1,0 +1,37 @@
+  {
+  "items": [
+    {
+      "match_is": true,
+      "isEnd": true,
+      "player1": "Usmoxan",
+      "player2": "Umarjon",
+      "score1": 1,
+      "score2": 0,
+      "date": "12 Dek",
+      "time": "21:00"
+    },
+    {
+      "match_is": true,
+      "isEnd": true,
+      "player1": "Umidjon",
+      "player2": "Hayrulloh",
+      "score1": 1,
+      "score2": 4,
+      "date": "12 Dek",
+      "time": "22:00"
+    },
+    {
+      "match_is": false
+    },
+    {
+      "match_is": true,
+      "isEnd": false,
+      "player1": "Umidjon",
+      "player2": "Hayrulloh",
+      "score1": 1,
+      "score2": 4,
+      "date": "12 Dek",
+      "time": "22:00"
+    }
+  ]
+}
